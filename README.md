@@ -36,22 +36,13 @@ El objetivo principal es encontrar la ruta más corta posible que conecte todas 
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tuusuario/smart-travel.git
+    git clone https://github.com/Reload2704/Smart-Travel-TSP.git
     ```
 
 2. Abre el proyecto en **Android Studio**.
 
 3. Compila y ejecuta el proyecto en un emulador o dispositivo Android.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas mejorar el proyecto o agregar nuevas características, sigue los siguientes pasos:
-
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama (`git checkout -b feature-nueva-funcionalidad`).
-3. Haz tus cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Empuja los cambios a tu rama (`git push origin feature-nueva-funcionalidad`).
-5. Crea un Pull Request.
 
 ## Licencia
 
